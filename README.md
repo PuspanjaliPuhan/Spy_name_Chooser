@@ -3,7 +3,7 @@ This repository contains a Python script that creates fun and intriguing code na
 How it Works:
 
 Run the Script:
-Clone the repository: git clone https://github.com/PuspanjaliPuhan/Spy name chooser.git
+Clone the repository: git clone https://github.com/PuspanjaliPuhan/Spy_name_Chooser
 
 Run the script: python spy name chooser.py
 
